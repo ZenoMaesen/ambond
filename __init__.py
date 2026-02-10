@@ -1,2 +1,2 @@
-# Package initializer for AMBond
-__all__ = ["AMBond"]
+# Package initializer for ambond
+__all__ = ["ambond"]
