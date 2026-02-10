@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: ambond
+Version: 0.1.0
+Summary: Altermagnet bond checker CLI
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Dist: ase
+Requires-Dist: spglib
+Requires-Dist: numpy
+Requires-Dist: amcheck
+Requires-Dist: diophantine
